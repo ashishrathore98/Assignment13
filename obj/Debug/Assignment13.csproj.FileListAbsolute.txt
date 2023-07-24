@@ -1,0 +1,8 @@
+E:\Simplilearn course\Assignment13\Assignment13\Assignment13\bin\Debug\Assignment13.exe.config
+E:\Simplilearn course\Assignment13\Assignment13\Assignment13\bin\Debug\Assignment13.exe
+E:\Simplilearn course\Assignment13\Assignment13\Assignment13\bin\Debug\Assignment13.pdb
+E:\Simplilearn course\Assignment13\Assignment13\Assignment13\obj\Debug\Assignment13.csproj.AssemblyReference.cache
+E:\Simplilearn course\Assignment13\Assignment13\Assignment13\obj\Debug\Assignment13.csproj.SuggestedBindingRedirects.cache
+E:\Simplilearn course\Assignment13\Assignment13\Assignment13\obj\Debug\Assignment13.csproj.CoreCompileInputs.cache
+E:\Simplilearn course\Assignment13\Assignment13\Assignment13\obj\Debug\Assignment13.exe
+E:\Simplilearn course\Assignment13\Assignment13\Assignment13\obj\Debug\Assignment13.pdb
